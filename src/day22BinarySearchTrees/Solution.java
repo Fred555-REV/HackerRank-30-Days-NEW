@@ -1,6 +1,5 @@
-package solution;
+package day22BinarySearchTrees;
 
-import java.io.*;
 import java.util.*;
 
 public class Solution {
